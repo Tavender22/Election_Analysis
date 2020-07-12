@@ -13,23 +13,15 @@ The Colorado Board of Elections has asked for a report to determine the winning 
 - Software: Python, Visual Studio
 
 ## Summary of Results
+Total votes cast in the election were 369,711.
 
-Election Results
------------------------------------------
-Total Votes: 369,711
------------------------------------------
-Charles Casper Stockham: 23.0% (85,213)
+Candidate Results:
+Charles Casper Stockham: 23.0% (85,213 votes)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
------------------------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272892
-Winning Percentage: 73.8%
------------------------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272892
-Winning Percentage: 73.8%
------------------------------------------
+
+The winning candidate was Diana DeGette with 73.8% of the vote, receiving 272,892 votes.
+
 ## Challenge Overview
 
 ## Challenge Summary
